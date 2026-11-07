@@ -20,11 +20,11 @@ MSc in Artificial Intelligence · BSc in Data Science (UPV) · Exchange at RWTH 
 
 ### Projects
 
-**[local-rag-chatbot](https://github.com/JBuendia98/local-rag-chatbot)**  
+**local-rag-chatbot** *(private — available on request)*  
 Fully local RAG system to query your own documents with no external APIs.  
 Built with FastAPI · FAISS · sentence-transformers · Ollama · React 19
 
-**[market-pulse](https://github.com/JBuendia98/market-pulse)**  
+**market-pulse** *(private — available on request)*  
 Real-time market data pipeline for crypto, stocks, and commodities, queryable in natural language via an MCP server.  
 Built with Kafka · Redpanda · DuckDB · dbt · Streamlit · MCP
 
